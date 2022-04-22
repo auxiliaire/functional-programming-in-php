@@ -1,0 +1,6 @@
+{
+    "require": {
+        "react/http": "1.2.0",
+        "react/promise": "2.8.0"
+    }
+}

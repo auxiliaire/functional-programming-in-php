@@ -1,0 +1,10 @@
+{
+    "id": 2,
+    "name": "Nilüfer",
+    "address": {
+        "street": {
+            "number": 22,
+            "name": "Walnut St"
+        }
+    }
+}
