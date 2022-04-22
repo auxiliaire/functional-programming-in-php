@@ -48,6 +48,10 @@ The code heavily uses PHP8 features, therefore won't run on previous versions.
 
 Some demos rely on [React](https://reactphp.org/) to perform HTTP requests or even create a server. This dependency can be installed easily by running `composer update` in the project root. More information on how to setup Composer itself can be found on their [website](https://getcomposer.org).
 
+### How to run the demos
+
+All demos are inteded for command line usage, except `serverDemo` which by nature also has a web interface. To run any of the demos, cd into `demos` and run the files with PHP like this: `php taskDemo.php` or better with some debug info: `php -d display_errors=1 taskDemo.php`.
+
 ## Cohen
 
 Experimenting with Task and IO happened to create a nano web application framework capable of writing a webserver with just a few lines of code.
