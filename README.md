@@ -77,6 +77,8 @@ This little, single-file library is worth a repository and documentation on its 
 
 This snippet will fire up React and exposes a few endpoints for GET requests as well as one endpoint for POST, while also captures some of the request data for dynamic processing. This would make it ideal for rapid API sketches and mocks, but in its present form it's only meant to demonstrate the expressive power of Functional Programming.
 
+Start the server with `php -d display_errors=1 serverDemo.php` from the command line, and you can access its endpoints on [localhost](http://127.0.0.1:8080) in your preferred browser or via [Postman](https://www.postman.com/).
+
 ## Thanks
 
 Thank you for getting through the readme, and if you'd like to learn more about Functional Programming or Programming in general, you can find me on [medium](https://auxiliaire.medium.com/).
