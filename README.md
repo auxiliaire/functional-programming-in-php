@@ -22,14 +22,15 @@ This is already a six part series at the time of writing these lines, but severa
 * Currying
 * Function composition
 * Pipeing
-* Functor
-* Applicative
-* Monad
 * Containers like:
   * Maybe
   * Either
   * IO
   * Task
+* Type Classes like:
+  * Functor
+  * Applicative
+  * Monad
 * etc.
 
 ## Project Structure
